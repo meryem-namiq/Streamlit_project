@@ -1,0 +1,8 @@
+streamlit
+pandas
+csv
+matplotlib
+tkinter as tk
+seaborn
+base64
+codecs
